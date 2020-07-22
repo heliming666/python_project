@@ -1,0 +1,2 @@
+# python_project
+基于廖雪峰老师的python教程编写的web项目实战操作
